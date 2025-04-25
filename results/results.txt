@@ -1,0 +1,125 @@
+0.0
+{"message": "d_model must be in range [64, 1024], got 0", "d_model": 0, "num_layers": 8, "num_heads": 3, "batch_size": 128, "learning_rate": 0.00035938136638046257, "train_flops": 100000000000000}
+{"message": "num_heads must be in range [2, 24], got 1", "d_model": 128, "num_layers": 24, "num_heads": 1, "batch_size": 128, "learning_rate": 0.00021544346900318845, "train_flops": 100000000000000}
+{"message": "d_model must be in range [64, 1024], got 1280", "d_model": 1280, "num_layers": 4, "num_heads": 10, "batch_size": 128, "learning_rate": 0.00046415888336127773, "train_flops": 100000000000000}
+{"loss": 10.23741209500189, "total_flops_used": 100000000000000, "d_model": 256, "num_layers": 3, "num_heads": 2, "batch_size": 128, "learning_rate": 0.00046415888336127773, "train_flops": 100000000000000}
+{"loss": 10.54693525314331, "total_flops_used": 110000000000000, "d_model": 256, "num_layers": 2, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 10000000000000}
+{"loss": 10.535958933595625, "total_flops_used": 120000000000000, "d_model": 256, "num_layers": 3, "num_heads": 2, "batch_size": 128, "learning_rate": 0.001, "train_flops": 10000000000000}
+{"loss": 10.517448987960815, "total_flops_used": 130000000000000, "d_model": 256, "num_layers": 4, "num_heads": 2, "batch_size": 128, "learning_rate": 0.001, "train_flops": 10000000000000}
+{"loss": 10.54214855137517, "total_flops_used": 140000000000000, "d_model": 384, "num_layers": 2, "num_heads": 3, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 10000000000000}
+{"loss": 10.541628636538261, "total_flops_used": 150000000000000, "d_model": 256, "num_layers": 5, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 10000000000000}
+{"loss": 10.54141163704966, "total_flops_used": 160000000000000, "d_model": 256, "num_layers": 6, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0001291549665014884, "train_flops": 10000000000000}
+{"loss": 10.54693525314331, "total_flops_used": 160000000000000, "d_model": 256, "num_layers": 2, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 10000000000000}
+{"loss": 10.541352183818821, "total_flops_used": 170000000000000, "d_model": 256, "num_layers": 15, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0005994842503189409, "train_flops": 10000000000000}
+{"loss": 10.54325929641724, "total_flops_used": 180000000000000, "d_model": 384, "num_layers": 11, "num_heads": 3, "batch_size": 128, "learning_rate": 0.00035938136638046257, "train_flops": 10000000000000}
+{"loss": 10.531537456512451, "total_flops_used": 190000000000000, "d_model": 512, "num_layers": 8, "num_heads": 4, "batch_size": 128, "learning_rate": 0.001, "train_flops": 10000000000000}
+{"loss": 10.542354246452398, "total_flops_used": 200000000000000, "d_model": 256, "num_layers": 11, "num_heads": 2, "batch_size": 128, "learning_rate": 0.00035938136638046257, "train_flops": 10000000000000}
+{"loss": 10.545082021236421, "total_flops_used": 210000000000000, "d_model": 512, "num_layers": 13, "num_heads": 4, "batch_size": 128, "learning_rate": 0.001, "train_flops": 10000000000000}
+{"loss": 10.538348991298681, "total_flops_used": 220000000000000, "d_model": 512, "num_layers": 6, "num_heads": 4, "batch_size": 128, "learning_rate": 0.001, "train_flops": 10000000000000}
+{"loss": 10.540336782947541, "total_flops_used": 230000000000000, "d_model": 512, "num_layers": 2, "num_heads": 4, "batch_size": 128, "learning_rate": 0.0001291549665014884, "train_flops": 10000000000000}
+{"loss": 10.543202926818067, "total_flops_used": 240000000000000, "d_model": 256, "num_layers": 2, "num_heads": 2, "batch_size": 128, "learning_rate": 0.00021544346900318845, "train_flops": 10000000000000}
+{"loss": 10.53022781023217, "total_flops_used": 250000000000000, "d_model": 384, "num_layers": 2, "num_heads": 3, "batch_size": 128, "learning_rate": 0.001, "train_flops": 10000000000000}
+{"loss": 10.550598784828185, "total_flops_used": 260000000000000, "d_model": 384, "num_layers": 16, "num_heads": 3, "batch_size": 128, "learning_rate": 0.001, "train_flops": 10000000000000}
+{"loss": 10.543151693916325, "total_flops_used": 270000000000000, "d_model": 384, "num_layers": 8, "num_heads": 3, "batch_size": 128, "learning_rate": 0.00035938136638046257, "train_flops": 10000000000000}
+{"loss": 10.53532126502991, "total_flops_used": 280000000000000, "d_model": 512, "num_layers": 7, "num_heads": 4, "batch_size": 128, "learning_rate": 0.000774263682681127, "train_flops": 10000000000000}
+{"loss": 10.542567877674102, "total_flops_used": 290000000000000, "d_model": 896, "num_layers": 3, "num_heads": 7, "batch_size": 128, "learning_rate": 0.0005994842503189409, "train_flops": 10000000000000}
+{"loss": 10.542446382904053, "total_flops_used": 300000000000000, "d_model": 384, "num_layers": 17, "num_heads": 3, "batch_size": 128, "learning_rate": 0.0002782559402207126, "train_flops": 10000000000000}
+{"loss": 10.546354649100936, "total_flops_used": 310000000000000, "d_model": 256, "num_layers": 10, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0002782559402207126, "train_flops": 10000000000000}
+{"loss": 10.540134159946442, "total_flops_used": 320000000000000, "d_model": 768, "num_layers": 2, "num_heads": 6, "batch_size": 128, "learning_rate": 0.000774263682681127, "train_flops": 10000000000000}
+{"loss": 10.544630348749534, "total_flops_used": 330000000000000, "d_model": 384, "num_layers": 10, "num_heads": 3, "batch_size": 128, "learning_rate": 0.0001668100537200059, "train_flops": 10000000000000}
+{"loss": 10.544643670435326, "total_flops_used": 340000000000000, "d_model": 384, "num_layers": 9, "num_heads": 3, "batch_size": 128, "learning_rate": 0.00021544346900318845, "train_flops": 10000000000000}
+{"loss": 10.545624167633058, "total_flops_used": 350000000000000, "d_model": 768, "num_layers": 3, "num_heads": 6, "batch_size": 128, "learning_rate": 0.0001291549665014884, "train_flops": 10000000000000}
+{"loss": 10.544501743316651, "total_flops_used": 360000000000000, "d_model": 768, "num_layers": 5, "num_heads": 6, "batch_size": 128, "learning_rate": 0.0001668100537200059, "train_flops": 10000000000000}
+{"loss": 10.53971607818604, "total_flops_used": 370000000000000, "d_model": 512, "num_layers": 4, "num_heads": 4, "batch_size": 128, "learning_rate": 0.000774263682681127, "train_flops": 10000000000000}
+{"loss": 10.544394757556915, "total_flops_used": 380000000000000, "d_model": 640, "num_layers": 6, "num_heads": 5, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 10000000000000}
+{"loss": 10.542839532184608, "total_flops_used": 390000000000000, "d_model": 256, "num_layers": 20, "num_heads": 2, "batch_size": 128, "learning_rate": 0.00046415888336127773, "train_flops": 10000000000000}
+{"loss": 10.54471916751862, "total_flops_used": 400000000000000, "d_model": 512, "num_layers": 5, "num_heads": 4, "batch_size": 128, "learning_rate": 0.0002782559402207126, "train_flops": 10000000000000}
+{"loss": 10.54481884076156, "total_flops_used": 410000000000000, "d_model": 384, "num_layers": 12, "num_heads": 3, "batch_size": 128, "learning_rate": 0.0002782559402207126, "train_flops": 10000000000000}
+{"loss": 10.539093750667574, "total_flops_used": 420000000000000, "d_model": 384, "num_layers": 21, "num_heads": 3, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 10000000000000}
+{"loss": 10.543289061859195, "total_flops_used": 430000000000000, "d_model": 384, "num_layers": 6, "num_heads": 3, "batch_size": 128, "learning_rate": 0.00035938136638046257, "train_flops": 10000000000000}
+{"loss": 10.544491577148438, "total_flops_used": 440000000000000, "d_model": 768, "num_layers": 6, "num_heads": 6, "batch_size": 128, "learning_rate": 0.00021544346900318845, "train_flops": 10000000000000}
+{"loss": 10.542221664810182, "total_flops_used": 450000000000000, "d_model": 640, "num_layers": 8, "num_heads": 5, "batch_size": 128, "learning_rate": 0.0001291549665014884, "train_flops": 10000000000000}
+{"loss": 10.53896859827041, "total_flops_used": 460000000000000, "d_model": 384, "num_layers": 3, "num_heads": 3, "batch_size": 128, "learning_rate": 0.00046415888336127773, "train_flops": 10000000000000}
+{"loss": 10.541628636538261, "total_flops_used": 460000000000000, "d_model": 256, "num_layers": 5, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 10000000000000}
+{"loss": 10.537603877449037, "total_flops_used": 470000000000000, "d_model": 896, "num_layers": 2, "num_heads": 7, "batch_size": 128, "learning_rate": 0.00021544346900318845, "train_flops": 10000000000000}
+{"loss": 10.544091848278049, "total_flops_used": 480000000000000, "d_model": 640, "num_layers": 4, "num_heads": 5, "batch_size": 128, "learning_rate": 0.0001291549665014884, "train_flops": 10000000000000}
+{"loss": 10.539988436126709, "total_flops_used": 490000000000000, "d_model": 512, "num_layers": 12, "num_heads": 4, "batch_size": 128, "learning_rate": 0.00021544346900318845, "train_flops": 10000000000000}
+{"loss": 10.539988436126709, "total_flops_used": 500000000000000, "d_model": 512, "num_layers": 14, "num_heads": 4, "batch_size": 128, "learning_rate": 0.0002782559402207126, "train_flops": 10000000000000}
+{"loss": 10.543750463838956, "total_flops_used": 510000000000000, "d_model": 256, "num_layers": 22, "num_heads": 2, "batch_size": 128, "learning_rate": 0.00021544346900318845, "train_flops": 10000000000000}
+{"loss": 10.544231795878398, "total_flops_used": 520000000000000, "d_model": 384, "num_layers": 4, "num_heads": 3, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 10000000000000}
+{"loss": 10.542882512760166, "total_flops_used": 530000000000000, "d_model": 256, "num_layers": 18, "num_heads": 2, "batch_size": 128, "learning_rate": 0.00046415888336127773, "train_flops": 10000000000000}
+{"loss": 10.533447040343665, "total_flops_used": 540000000000000, "d_model": 256, "num_layers": 3, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0005994842503189409, "train_flops": 10000000000000}
+{"loss": 10.540116803359986, "total_flops_used": 550000000000000, "d_model": 640, "num_layers": 10, "num_heads": 5, "batch_size": 128, "learning_rate": 0.0002782559402207126, "train_flops": 10000000000000}
+{"loss": 10.539548454284668, "total_flops_used": 560000000000000, "d_model": 768, "num_layers": 4, "num_heads": 6, "batch_size": 128, "learning_rate": 0.0005994842503189409, "train_flops": 10000000000000}
+{"loss": 10.546978731632235, "total_flops_used": 570000000000000, "d_model": 384, "num_layers": 14, "num_heads": 3, "batch_size": 128, "learning_rate": 0.001, "train_flops": 10000000000000}
+{"loss": 10.54064940032959, "total_flops_used": 580000000000000, "d_model": 896, "num_layers": 4, "num_heads": 7, "batch_size": 128, "learning_rate": 0.0002782559402207126, "train_flops": 10000000000000}
+{"loss": 10.542354246452398, "total_flops_used": 590000000000000, "d_model": 256, "num_layers": 13, "num_heads": 2, "batch_size": 128, "learning_rate": 0.00046415888336127773, "train_flops": 10000000000000}
+{"loss": 10.54104030609131, "total_flops_used": 600000000000000, "d_model": 768, "num_layers": 7, "num_heads": 6, "batch_size": 128, "learning_rate": 0.00046415888336127773, "train_flops": 10000000000000}
+{"loss": 10.544091000405663, "total_flops_used": 610000000000000, "d_model": 640, "num_layers": 2, "num_heads": 5, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 10000000000000}
+{"loss": 10.53988048286438, "total_flops_used": 620000000000000, "d_model": 512, "num_layers": 15, "num_heads": 4, "batch_size": 128, "learning_rate": 0.0001668100537200059, "train_flops": 10000000000000}
+{"loss": 10.541286455726624, "total_flops_used": 630000000000000, "d_model": 512, "num_layers": 10, "num_heads": 4, "batch_size": 128, "learning_rate": 0.0002782559402207126, "train_flops": 10000000000000}
+{"loss": 10.542354246452398, "total_flops_used": 640000000000000, "d_model": 256, "num_layers": 14, "num_heads": 2, "batch_size": 128, "learning_rate": 0.00046415888336127773, "train_flops": 10000000000000}
+{"loss": 10.544376990091319, "total_flops_used": 650000000000000, "d_model": 256, "num_layers": 7, "num_heads": 2, "batch_size": 128, "learning_rate": 0.00046415888336127773, "train_flops": 10000000000000}
+650000000000000.0
+650000000000000.0
+{"loss": 10.350080607749273, "total_flops_used": 950000000000000, "d_model": 384, "num_layers": 12, "num_heads": 3, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 300000000000000}
+{"loss": 10.438629722956657, "total_flops_used": 1250000000000000, "d_model": 768, "num_layers": 3, "num_heads": 6, "batch_size": 128, "learning_rate": 0.0001291549665014884, "train_flops": 300000000000000}
+{"loss": 10.2154182834335, "total_flops_used": 1550000000000000, "d_model": 256, "num_layers": 11, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0001668100537200059, "train_flops": 300000000000000}
+{"loss": 9.377670824629524, "total_flops_used": 1850000000000000, "d_model": 256, "num_layers": 5, "num_heads": 2, "batch_size": 128, "learning_rate": 0.00046415888336127773, "train_flops": 300000000000000}
+{"loss": 9.972272065921148, "total_flops_used": 2150000000000000, "d_model": 384, "num_layers": 7, "num_heads": 3, "batch_size": 128, "learning_rate": 0.00046415888336127773, "train_flops": 300000000000000}
+{"loss": 10.41237776800002, "total_flops_used": 2250000000000000, "d_model": 160, "num_layers": 5, "num_heads": 5, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000}
+{"loss": 10.414001390305238, "total_flops_used": 2350000000000000, "d_model": 192, "num_layers": 6, "num_heads": 6, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000}
+{"loss": 10.470198255476992, "total_flops_used": 2450000000000000, "d_model": 224, "num_layers": 7, "num_heads": 7, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000}
+{"loss": 9.811663075232396, "total_flops_used": 2750000000000000, "d_model": 160, "num_layers": 5, "num_heads": 5, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 300000000000000}
+{"loss": 9.80988718668489, "total_flops_used": 3050000000000000, "d_model": 192, "num_layers": 6, "num_heads": 6, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 300000000000000}
+{"loss": 10.020089926305353, "total_flops_used": 3350000000000000, "d_model": 224, "num_layers": 7, "num_heads": 7, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 300000000000000}
+3350000000000000.0
+{"loss": 8.53753505974328, "total_flops_used": 4350000000000000, "d_model": 224, "num_layers": 7, "num_heads": 7, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 1000000000000000}
+{"loss": 8.72469502471704, "total_flops_used": 5350000000000000, "d_model": 256, "num_layers": 8, "num_heads": 8, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 1000000000000000}
+{"loss": 9.283551190042783, "total_flops_used": 6350000000000000, "d_model": 320, "num_layers": 10, "num_heads": 5, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 1000000000000000}
+{"loss": 9.28116833182514, "total_flops_used": 7350000000000000, "d_model": 320, "num_layers": 10, "num_heads": 10, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 1000000000000000}
+7350000000000000.0
+{"loss": 7.1551800647689525, "total_flops_used": 13350000000000000, "d_model": 320, "num_layers": 10, "num_heads": 10, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 6000000000000000}
+{"loss": 7.339276763051182, "total_flops_used": 19350000000000000, "d_model": 352, "num_layers": 11, "num_heads": 11, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 6000000000000000}
+{"loss": 7.14823762715341, "total_flops_used": 25350000000000000, "d_model": 288, "num_layers": 9, "num_heads": 9, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 6000000000000000}
+2.535e+16
+{"loss": 7.110909455853461, "total_flops_used": 31350000000000000, "d_model": 256, "num_layers": 8, "num_heads": 8, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 6000000000000000}
+{"loss": 5.519214935197185, "total_flops_used": 131350000000000000, "d_model": 384, "num_layers": 12, "num_heads": 12, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000000}
+{"loss": 5.6467251936788365, "total_flops_used": 231350000000000000, "d_model": 480, "num_layers": 15, "num_heads": 15, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000000}
+{"message": "num_heads must be in range [2, 24], got 18", "d_model": 576, "num_layers": 18, "num_heads": 18, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000000}
+{"message": "num_heads must be in range [2, 24], got 17", "d_model": 544, "num_layers": 17, "num_heads": 17, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000000}
+{"message": "num_heads must be in range [2, 24], got 19", "d_model": 608, "num_layers": 19, "num_heads": 19, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000000}
+{"loss": 5.757307394342573, "total_flops_used": 331350000000000000, "d_model": 576, "num_layers": 18, "num_heads": 12, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000000}
+{"loss": 5.759573438936254, "total_flops_used": 431350000000000000, "d_model": 576, "num_layers": 18, "num_heads": 16, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000000}
+{"loss": 5.814376637703629, "total_flops_used": 531350000000000000, "d_model": 640, "num_layers": 20, "num_heads": 16, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000000}
+5.3135e+17
+{"loss": 5.448755934096081, "total_flops_used": 631350000000000000, "d_model": 320, "num_layers": 10, "num_heads": 10, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000000}
+{"loss": 5.42497619308494, "total_flops_used": 731350000000000000, "d_model": 224, "num_layers": 7, "num_heads": 7, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000000}
+7.3135e+17
+7.3135e+17
+{"loss": 5.495541110026357, "total_flops_used": 831350000000000000, "d_model": 192, "num_layers": 6, "num_heads": 6, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 100000000000000000}
+8.3135e+17
+{"loss": 7.05130741514588, "total_flops_used": 837350000000000000, "d_model": 192, "num_layers": 6, "num_heads": 6, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 6000000000000000}
+{"loss": 7.050466703195208, "total_flops_used": 843350000000000000, "d_model": 128, "num_layers": 4, "num_heads": 4, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 6000000000000000}
+8.4335e+17
+{"message": "d_model must be in range [64, 1024], got 32", "d_model": 32, "num_layers": 1, "num_heads": 1, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 10000000000000}
+8.4335e+17
+{"loss": 9.256693228835388, "total_flops_used": 843650000000000000, "d_model": 64, "num_layers": 2, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 300000000000000}
+{"loss": 7.870053027247607, "total_flops_used": 844650000000000000, "d_model": 64, "num_layers": 2, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 1000000000000000}
+8.4465e+17
+{"loss": 7.90546389950187, "total_flops_used": 845650000000000000, "d_model": 96, "num_layers": 3, "num_heads": 3, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 1000000000000000}
+{"loss": 7.056259497080811, "total_flops_used": 851650000000000000, "d_model": 96, "num_layers": 3, "num_heads": 3, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 6000000000000000}
+8.5165e+17
+{"loss": 9.256693228835388, "total_flops_used": 851650000000000000, "d_model": 64, "num_layers": 2, "num_heads": 2, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 300000000000000}
+{"loss": 9.323022908230291, "total_flops_used": 851950000000000000, "d_model": 96, "num_layers": 3, "num_heads": 3, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 300000000000000}
+8.5195e+17
+{"loss": 6.160830630735499, "total_flops_used": 881950000000000000, "d_model": 128, "num_layers": 4, "num_heads": 4, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 30000000000000000}
+{"loss": 6.199463101408217, "total_flops_used": 911950000000000000, "d_model": 224, "num_layers": 7, "num_heads": 7, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 30000000000000000}
+{"loss": 6.205652658249752, "total_flops_used": 941950000000000000, "d_model": 320, "num_layers": 10, "num_heads": 10, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 30000000000000000}
+9.4195e+17
+{"loss": 6.202880413952144, "total_flops_used": 971950000000000000, "d_model": 256, "num_layers": 8, "num_heads": 8, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 30000000000000000}
+{"loss": 6.166138608052766, "total_flops_used": 1001950000000000000, "d_model": 160, "num_layers": 5, "num_heads": 5, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 30000000000000000}
+{"loss": 6.181043592518977, "total_flops_used": 1031950000000000000, "d_model": 192, "num_layers": 6, "num_heads": 6, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 30000000000000000}
+1.03195e+18
+{"loss": 6.2131965902270165, "total_flops_used": 1061950000000000000, "d_model": 384, "num_layers": 12, "num_heads": 12, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 30000000000000000}
+{"loss": 6.2131965902270165, "total_flops_used": 1061950000000000000, "d_model": 384, "num_layers": 12, "num_heads": 12, "batch_size": 128, "learning_rate": 0.0001, "train_flops": 30000000000000000}
